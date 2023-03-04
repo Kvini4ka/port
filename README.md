@@ -1,4 +1,6 @@
-<img align="right" src="img/foto.png">
+<img align="left" src="img/foto222.jpg">
+<div style="float: right">
+
 
 # **Обо мне**
 
@@ -14,4 +16,4 @@
 + Образование: высшее, ОмГТУ
 + Город: Омск
 + Желаемый уровень дохода: 80 000+ руб
-   
+   </div>
